@@ -6,7 +6,7 @@ git remote add <remote-name> <url>
 git config --global user.name   <name>
 git config --global user.email  <email>
 
-git push
+git pushCancel changes
 git pull 
 
 git clone
@@ -20,3 +20,6 @@ git reflog
 
 git reset [--hard] 
 git revent
+
+git branch [-b/d]
+git checkout 
