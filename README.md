@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git's Useage
 
 git init
