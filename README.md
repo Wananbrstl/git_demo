@@ -10,7 +10,6 @@ git pull
 
 git clone
 
-
 git add <file/.>
 git commit [-m "<content>"] 
 
@@ -18,7 +17,9 @@ git log
 git reflog
 
 git reset [--hard] 
-git revent
+git revet
 
 git branch [-b/d]
 git checkout 
+
+git rebase
